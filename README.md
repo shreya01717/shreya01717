@@ -44,7 +44,7 @@ class ShreyaMadan:
 
 ---
 
-# 💼 Experience
+# Experience
 
 ## 🔬 Machine Learning Research Intern — DTU
 
