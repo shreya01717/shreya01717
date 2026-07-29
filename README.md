@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Shreya Madan
+Hi! I'm Shreya Madan
 </h1>
 
 <h3 align="center">
@@ -18,7 +18,7 @@ Building AI-powered products that solve real-world problems through research, sc
 
 ---
 
-# 🌸 About Me
+# About Me
 
 ```python
 class ShreyaMadan:
