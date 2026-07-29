@@ -71,7 +71,7 @@ Developed **RakshakApp**, an AI-powered disaster preparedness platform featuring
 - Multilingual Support
 
 ---
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🚨 RakshakApp
 AI-powered disaster preparedness platform integrating AI, GIS, voice assistance, SOS alerts, risk maps, and multilingual emergency support.
