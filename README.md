@@ -71,92 +71,94 @@ Developed **RakshakApp**, an AI-powered disaster preparedness platform featuring
 - Multilingual Support
 
 ---
-
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🚨 RakshakApp
+AI-powered disaster preparedness platform integrating AI, GIS, voice assistance, SOS alerts, risk maps, and multilingual emergency support.
 
-AI-powered disaster preparedness platform.
+### ✨ Features
+- 🚨 SOS Alerts
+- 🎙️ AI Voice Assistant
+- 🗺️ Google Maps & GIS Risk Maps
+- 🌪️ Disaster Simulation
+- 📞 Emergency Contacts
+- 🌐 Multilingual Support
 
-### Features
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `Firebase` `PostgreSQL` `Twilio` `Google Maps API` `Leaflet.js` `Whisper ASR` `gTTS`
 
-- SOS Alerts
-- Voice Assistant
-- Google Maps
-- Disaster Simulation
-- Emergency Contacts
-- Multilingual Support
+🔗 **Live Demo:** https://rakshakapp.vercel.app/
 
-**Tech**
-
-`React`
-`Node`
-`Express`
-`Firebase`
-`PostgreSQL`
-`Twilio`
-`Google Maps`
-`Leaflet`
-`Whisper`
-`gTTS`
-
-🔗 Live Demo
-
-https://rakshakapp.vercel.app
-
-⭐ GitHub
-
-https://github.com/shreyamadan/RakshakApp
+⭐ **GitHub:** https://github.com/shreya01717/RAKSHAKAPP
 
 ---
 
 ## 🌾 KrishiNyay AI
+A multilingual Retrieval-Augmented Generation (RAG) platform that answers farmer queries using trusted government documents.
 
-A multilingual Retrieval-Augmented Generation platform for farmers.
+### ✨ Highlights
+- 🤖 LangChain
+- 🗂️ ChromaDB
+- 🧠 MiniLM Embeddings
+- ✨ Gemini API
+- 📚 Government Agricultural Documents
 
-### Highlights
+### 🌱 Supports
+- Crop Insurance
+- Government Schemes
+- Farmers' Rights
 
-- LangChain
-- ChromaDB
-- MiniLM Embeddings
-- Gemini API
-- Government agricultural datasets
+**Tech Stack:**  
+`Python` `LangChain` `ChromaDB` `MiniLM` `Gemini API` `Streamlit`
 
-Supports
+🎥 **Demo:** https://drive.google.com/file/d/1D40GksksFM2ZqF7tTfEZarYmhbSFJyvG/view
 
-- Crop insurance
-- Government schemes
-- Farmer rights
+⭐ **GitHub:** https://github.com/shreya01717/rag-project
 
 ---
 
-## 🗳 BharatMat
+## 🗳️ BharatMat
+AI-powered civic engagement platform for voter awareness, misinformation detection, and election assistance.
 
-AI-powered civic engagement platform.
+### ✨ Features
+- 📰 Fake News Detection
+- 🎭 Deepfake Detection
+- 🤖 AI Chatbot
+- 🗳️ Voter Verification
+- ✅ Verified News Feed
 
-Features
+**Tech Stack:**  
+`Python` `Flask` `HTML` `CSS` `JavaScript`
 
-- Fake News Detection
-- Deepfake Detection
-- AI Chatbot
-- Voter Verification
-- Verified News
+🎥 **Demo:** https://youtu.be/jS_c_T3pl3Y
+
+⭐ **GitHub:** https://github.com/shreya01717/Bharat-mat
 
 ---
 
 ## 🧠 LexiBloom
+AI-powered accessibility platform designed for dyslexic and ADHD learners with intelligent reading assistance.
 
-Accessibility platform designed for Dyslexic and ADHD learners.
+### ✨ Features
+- 📄 OCR
+- 🎤 Speech Recognition
+- 🤖 AI Reading Assistant
+- 🔊 Text-to-Speech
+- 📖 Personalized Reading Experience
 
-### Features
+**Tech Stack:**  
+`React` `Express.js` `Whisper` `OCR` `AI APIs`
 
-- OCR
-- Speech Recognition
-- AI Reading Assistant
-- Text-to-Speech
-- Personalized Reading
+🔗 **Live Demo:** https://lexibloom.vercel.app/
 
----
+⭐ **GitHub:** https://github.com/shreya01717/LexiBloom
+
+
+
+
+
+
+
 
 
 # 🏆 Achievements
