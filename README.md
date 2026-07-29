@@ -155,17 +155,17 @@ Accessibility platform designed for dyslexic and ADHD learners with AI-assisted 
 
 # 🏆 Achievements
 
-🥇 Top 3 among **1600+ teams** — Hack4Delhi Grand Finale
+ Top 3 among **1600+ teams** — Hack4Delhi Grand Finale
 
-🥈 Runner-Up — SemiXthon 2026
+ Runner-Up — SemiXthon 2026
 
-🏅 Research Paper (EEG Depression Detection)
+ Research Paper (EEG Depression Detection)
 
-💻 Solved **400+ DSA Problems**
+ Solved **400+ DSA Problems**
 
-👩‍💻 HR Lead — Enactus IGDTUW
+ HR Lead — Enactus IGDTUW
 
-🔬 Research Associate — Minerva Technical Forum
+ Research Associate — Minerva Technical Forum
 
 ---
 
