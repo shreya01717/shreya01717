@@ -130,6 +130,20 @@ Supports
 
 ---
 
+## 🗳 BharatMat
+
+AI-powered civic engagement platform.
+
+Features
+
+- Fake News Detection
+- Deepfake Detection
+- AI Chatbot
+- Voter Verification
+- Verified News
+
+---
+
 ## 🧠 LexiBloom
 
 Accessibility platform designed for Dyslexic and ADHD learners.
@@ -144,19 +158,6 @@ Accessibility platform designed for Dyslexic and ADHD learners.
 
 ---
 
-## 🗳 BharatMat
-
-AI-powered civic engagement platform.
-
-Features
-
-- Fake News Detection
-- Deepfake Detection
-- AI Chatbot
-- Voter Verification
-- Verified News
-
----
 
 # 🏆 Achievements
 
@@ -218,52 +219,6 @@ Whisper
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-- LeetCode
-- Code360
-- GeeksforGeeks
-- GitHub
-
----
 
 # 🌱 Currently Learning
 
@@ -291,13 +246,11 @@ I'm interested in collaborating on
 
 # 📫 Connect With Me
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/shreya-madan-713653327/
 
-GitHub
+Email : shreyamadan0@gmail.com
 
-Email
-
-LeetCode
+LeetCode : https://leetcode.com/u/shershreya/
 
 ---
 
